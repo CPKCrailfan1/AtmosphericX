@@ -2,7 +2,7 @@
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
     // For more information, visit: "hosting:settings": {
-        "https:enabled": false,
+        "https:enabled": true,
         "https:port": 3011,
         "http:port": 3010,
         "cookie:maxage": 86400000,
@@ -10,6 +10,6 @@
             "ssl:key": "./cert/generated.key",
             "ssl:cert": "./cert/generated.crt"
 ,
-"configurations": [
+"configurations": [true
 
 ]
